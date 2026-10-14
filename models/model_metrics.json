@@ -1,0 +1,12 @@
+{
+  "rows": 3000,
+  "test_rows": 600,
+  "model_mae": 0.3699,
+  "model_rmse": 0.472,
+  "model_r2": 0.8235,
+  "baseline_mae": 0.8907,
+  "baseline_rmse": 1.128,
+  "baseline_r2": -0.0083,
+  "input_penalty_per_unit": 0.002,
+  "data_type": "synthetic; illustrative only"
+}

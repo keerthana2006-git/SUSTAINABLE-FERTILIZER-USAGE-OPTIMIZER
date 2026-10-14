@@ -1,0 +1,4 @@
+Crop,Recommended_N,Recommended_P,Recommended_K,Predicted_Yield,Total_Fertilizer_Input,Yield_per_Fertilizer_Unit,Objective_Score
+Maize,80,40,40,5.088,160,0.0318,4.768
+Rice,80,0,40,4.686,120,0.039,4.446
+Wheat,20,20,0,3.482,40,0.0871,3.402
